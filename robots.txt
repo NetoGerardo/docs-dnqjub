@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-war5ew.basilsolutions.it/sitemap.xml
